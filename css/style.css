@@ -1,0 +1,45 @@
+.school_name{
+	color: #0c0c0c;
+	font-size: 18px;
+	width: 60%;
+	float: left;
+}
+.closed_title{
+	width: 12%;
+	float: left;
+	font-size: 18px;
+	color: red !important;
+}
+.delayed_title{
+	width: 35%;
+	float: left;
+	font-size: 18px;
+	color: blue !important;
+}
+#closings_container{
+	float: left;
+	width: 10%;
+}
+#delayed_container{
+	float: left;
+	width: 60%;
+}
+.entry-title{
+	font-size: 3.5rem !important;
+}
+.settings_box{
+	border: 1px solid #000;
+	width: 20%;
+	margin-top: 20px;
+}
+.settings_box_title{
+	border-bottom: 1px solid #000;
+}
+.settings_box_title h2{
+	text-align:center; 
+	font-size:26px;
+}
+.settings_box p{
+	text-align:center; 
+	font-size:20px;
+}
